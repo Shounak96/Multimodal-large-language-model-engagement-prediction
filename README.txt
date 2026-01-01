@@ -67,8 +67,6 @@ The goal is to understand the strengths and limitations of each approach for pre
 
 ## Project Structure
 
-```text
-SUBMISSION/
 ├── CatBoost/                 # Feature-based classification experiments
 ├── Regression/               # SigLIP + DeBERTa regression models
 ├── ViT+BERT/                 # End-to-end multimodal classification
